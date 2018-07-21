@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.icon-button a {
+    text-decoration: none;
+    color: inherit !important;
+}
+#body {
+    margin: auto;
+    width: 100%;
+}
+#table {
+    margin: auto;
+}
+#main-icon {
+    margin: auto;
+}
+#main-icon td {
+    text-align: center;
+}
+.icon-button {
+    text-align: center;
+    width: 180px;
+}
